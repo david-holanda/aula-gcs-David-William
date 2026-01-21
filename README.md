@@ -2,7 +2,7 @@
 
 
 Este repositório foi criado para praticar controle de versões.
-
+Este repositório foi criado para praticar controle de versões.
 
 ## Item de configuração.
 
